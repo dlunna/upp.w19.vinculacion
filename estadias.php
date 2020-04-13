@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./dotk/00head/analitycs.html'); ?>
@@ -16,7 +16,7 @@
 
     <nav>
       <!-- Menu principal superior -->
-      <?php include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
+      <?php //include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
     </nav>
 
   </header>
@@ -61,10 +61,10 @@
       <h1>Formatos</h1>
       <ul>
       <li><a href="./wp-content/uploads/2018/07/1.-F-VI_EI-01-Solicitud-para-Estadía_actualizada_LGAB.doc">1.-F-VI_EI-01 Solicitud para Estadía_actualizada_LGAB</a></li>
-      <li><a href="./wp-content/uploads/2018/12/2.-Cartas-de-presentación-Estadías_-LGAB-1.docx">2.- Cartas de presentación Estadías_ LGAB (1)</a></li>
-      <li><a href="./wp-content/uploads/2018/12/3.-Carta-de-Aceptación-Empresa_Institución_actualizada_LGAB-1.doc">3.- Carta de Aceptación Empresa_Institución_actualizada_LGAB (1)</a></li>
+      <li><a href="./mc/estadia/formatos/2-Cartas-de-presentacion-Estadias-LGAB-1.docx">2.- Cartas de presentación Estadías_ LGAB (1)</a></li>
+      <li><a href="./mc/estadia/formatos/3-Carta-de-Aceptacion-Empresa-Institucion-actualizada-LGAB-1.doc">3.- Carta de Aceptación Empresa_Institución_actualizada_LGAB (1)</a></li>
       <li><a href="./wp-content/uploads/2018/07/4.-F-VI_EI-02-Reporte-mensual-actualizado_LGAB.doc">4.- F-VI_EI-02 Reporte mensual-actualizado_LGAB</a></li>
-      <li><a href="./wp-content/uploads/2018/12/5.-Carta-de-Terminación-Empresa_Institución_actualizada_LGAB-1.doc">5.- Carta de Terminación Empresa_Institución_actualizada_LGAB (1)</a></li>
+      <li><a href="./mc/estadia/formatos/5-Carta-de-Terminación-Empresa_Institución_actualizada_LGAB-1.doc">5.- Carta de Terminación Empresa_Institución_actualizada_LGAB</a></li>
       <li><a href="./wp-content/uploads/2018/07/6.-F-VI_EI-03-Evaluación-Final-de-Asesor-Técnico_actualizada_LGAB.doc">6.- F-VI_EI-03 Evaluación Final de Asesor Técnico_actualizada_LGAB</a></li>
       </ul>
       <p><a name="lista"></a></p>
@@ -76,7 +76,7 @@
       <li><a href="./wp-content/uploads/2019/01/Lineamientos_para_Elaboracion_de_Memoria_Tecnica_de_estadia_UPP_Rev_05_2018.pdf">Lineamientos para elaborar la Memoria Técnica de Estadía</a></li>
       <li><a href="./wp-content/uploads/2019/01/Plantilla_Ejemplo_para_Elaboracion_de_Memoria_Tecnica_de_estadia_UPP_Rev_05_2018.docx">Plantilla de Ejemplo</a></li>
       </ul>
-      			
+
 
 
 

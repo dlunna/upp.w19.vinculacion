@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./dotk/00head/analitycs.html'); ?>
@@ -16,7 +16,7 @@
 
     <nav>
       <!-- Menu principal superior -->
-      <?php include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
+      <?php //include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
     </nav>
 
   </header>
@@ -71,7 +71,7 @@
       <li><a href="./wp-content/uploads/2013/05/F-VI-SE-03-Encuesta-Posgrado.docx">F-VI-SE-03 Encuesta Posgrado</a></li>
       <li><a href="./wp-content/uploads/2013/05/F-VI-SE-04-Encuesta-Para-Empleadores-1.docx">F-VI-SE-04 Encuesta Para Empleadores (1)</a></li>
       </ul>
-      			
+
 
 
 

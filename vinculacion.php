@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./dotk/00head/analitycs.html'); ?>
@@ -16,7 +16,7 @@
 
     <nav>
       <!-- Menu principal superior -->
-      <?php include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
+      <?php //include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
     </nav>
 
   </header>
@@ -40,7 +40,7 @@
       </ul>
 
       <hr>
-      
+
       <p><a name="definicion"></a></p>
       <h1>Definición</h1>
       <p align="justify">La Universidad Politécnica de Pachuca tiene una labor importante que cumplir ante la sociedad que le rodea, el sector industrial y de servicios así como también en el ámbito académico. Por tal motivo se ha creado la Dirección de Vinculación de la UPP, misma que tiene entre sus funciones la de gestionar y brindar a los estudiantes de la institución los medios para que se realice tanto la estancia industrial, la estadía y el servicio social apoyándose en las áreas académicas que correspondan. Tales medios se constituyen a través de convenios, cartas intención o compromisos que se establecen con empresas privadas o públicas, instituciones educativas o de investigación, instituciones gubernamentales entre otras, con el fin de dar marco a las actividades de nuestros estudiantes en dichas entidades receptoras.</p>

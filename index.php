@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./dotk/00head/analitycs.html'); ?>
@@ -16,7 +16,7 @@
 
     <nav>
       <!-- Menu principal superior -->
-      <?php include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
+      <?php //include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
     </nav>
 
   </header>
@@ -38,16 +38,17 @@
         <li><a href="./convenios.php">Convenios</a></li>
         <li><a href="./egresados.php">Egresados</a></li>
         <li><a href="https://drive.google.com/drive/folders/0B1hmxg8QtxfYMFZ2aW5Td1lBeGc">Bolsa de trabajo UPP</a></li>
-        <li><a href="https://upp.occ.com.mx/Bolsa_Trabajo">OCC Mundial</a></li>
+        <!--<li><a href="https://upp.occ.com.mx/Bolsa_Trabajo">Bolsa de trabajo OCC</a></li>-->
+        <li><a href="./bolsa_occ.php">Bolsa de trabajo OCC</a></li>
       </ul>
 
       <h2>Extensión</h2>
       <ul>
-        <li><a href="http://www.upp.edu.mx/4esp/index.php/departamentos/cultura">Cultura</a></li>
+        <li><a href="http://www.upp.edu.mx/cultura/">Cultura</a></li>
         <li><a href="http://www.upp.edu.mx/plata/">Deportes</a></li>
         <li><a href="http://www.upp.edu.mx/upinnem/">Unidad Politécnica de Innovación y Desarrollo Empresarial (UPINNEM)</a></li>
-        <li><a href="http://www.upp.edu.mx/4esp/index.php/centros/equinoterapia">Centro Ecuestre y de Equinoterapia de la Universidad Politécnica de Pachuca</a></li>
-        <li><a href="http://www.upp.edu.mx/4esp/index.php/centros/rehabilitacion">CUREI</a></li>
+        <li><a href="http://www.upp.edu.mx/ceetupp/">Centro Ecuestre y de Equinoterapia de la Universidad Politécnica de Pachuca</a></li>
+        <li><a href="http://www.upp.edu.mx/curei/">CUREI</a></li>
       </ul>
 
 
@@ -55,6 +56,33 @@
       <br />
       <hr />
       <br />
+
+
+<!--
+
+      <div class="row">
+        <div class="col-4">
+          <a href="#">
+            <img src="" class="img-fluid" />
+          </a>
+        </div>
+        <div class="col-8">
+          <h1>Lista de Asesores Académicos 2019</h1>
+          <p>
+            Proceso para Estadías en Ingenierías y Ciencias de la Salud, Lista de Asesores Académicos, Cuatrimestre Mayo – Agosto 2019
+          </p>
+          <ul>
+            <li>
+              <a href="./mc/uploads/2019/ASESORES-ACADEMICOS-COMPLETOS.pdf">Haga clic para descargar</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <br />
+      <hr />
+      <br />
+
 
 
 
@@ -119,7 +147,7 @@
         <div class="col-8">
           <h1>Lista de asesores</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            .
           </p>
           <ul>
             <li>
@@ -153,7 +181,7 @@
         </div>
       </div>
 
-
+-->
 
 
 

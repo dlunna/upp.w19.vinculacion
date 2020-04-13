@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./dotk/00head/analitycs.html'); ?>
@@ -16,7 +16,7 @@
 
     <nav>
       <!-- Menu principal superior -->
-      <?php include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
+      <?php //include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
     </nav>
 
   </header>
@@ -57,7 +57,7 @@
       <p><a name="procedimiento"></a></p>
       <h1>Procedimiento</h1>
       <ul>
-      <li>Llenado de <a title="solicitud" href="mc/visitas_tecnicas/procedimiento/solicitud_visitas_tecnicas.pdf">Solicitud de Visita Técnica Industrial</a> (Datos Correctos de la Empresa Visitante).</li>
+      <li>Llenado de Solicitud de Visita Técnica Industrial (Datos Correctos de la Empresa Visitante).</li>
       <li>Entregar dicha solicitud dos semanas antes de la fecha propuesta por el solicitante.</li>
       <li>Esperar respuesta de aceptación por parte de la empresa y a su vez la confirmación de Vinculación</li>
       </ul>
@@ -70,7 +70,7 @@
       <li><a href="./wp-content/uploads/2019/01/F-VI_VT-04-DATOS-GENERALES-DE-LOS-ESTUDIANTES.doc">F-VI_VT-04 DATOS GENERALES DE LOS ESTUDIANTES</a></li>
       <li><a href="./wp-content/uploads/2019/01/F-VI_VT-06-ITINERARIO-DE-LA-VISITA.doc">F-VI_VT-06 ITINERARIO DE LA VISITA</a></li>
       </ul>
-      			
+
 
 
 
